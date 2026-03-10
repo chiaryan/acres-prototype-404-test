@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // GitHub Pages base URL follows the pattern /<REPO_NAME>/
-  base: '/acres-prototype/'
+  base: '/acres-prototype-404-test/'
 })
